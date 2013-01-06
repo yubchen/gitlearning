@@ -9,6 +9,6 @@ public class Test{
 		System.out,print("i love git");
 	}
 	portected void learninggit(){
-		Syustem.out.print("learnning git");
+		Syustem.out.print("git learnning");
 	}
 }
