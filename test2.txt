@@ -5,4 +5,7 @@ public class Test{
 	public void hategit(){
 		System.out.print("i hate git");
 	}
+	private void lovegit(){
+		System.out,print("i love git");
+	}
 }
