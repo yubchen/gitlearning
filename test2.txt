@@ -8,4 +8,7 @@ public class Test{
 	private void lovegit(){
 		System.out,print("i love git");
 	}
+	portected void learninggit(){
+		Syustem.out.print("learnning git");
+	}
 }
