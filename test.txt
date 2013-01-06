@@ -4,3 +4,10 @@
 void main(){
   print("I hate git");
 }
+void lovegit(){
+	try{
+	 print("love git");
+	}catche(Exception e){
+	 print("love faile");
+	}
+}
